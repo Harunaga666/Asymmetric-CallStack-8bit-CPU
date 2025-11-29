@@ -1,0 +1,371 @@
+{
+  "ProjectName": "MattCPU",
+  "DLSVersion_LastSaved": "2.1.6",
+  "DLSVersion_EarliestCompatible": "2.0.0",
+  "CreationTime": "2025-11-12T16:52:44.515+09:00",
+  "LastSaveTime": "2025-11-24T21:10:35.282+09:00",
+  "Prefs_MainPinNamesDisplayMode": 0,
+  "Prefs_ChipPinNamesDisplayMode": 1,
+  "Prefs_GridDisplayMode": 0,
+  "Prefs_Snapping": 0,
+  "Prefs_StraightWires": 0,
+  "Prefs_SimPaused": false,
+  "Prefs_SimTargetStepsPerSecond": 1000,
+  "Prefs_SimStepsPerClockTick": 11,
+  "AllCustomChipNames":[
+    "NOT",
+    "AND",
+    "OR",
+    "XOR",
+    "NOR",
+    "ALU Operations",
+    "8B Adder",
+    "FULL ADDER",
+    "8B SUB",
+    "8B AND",
+    "Cancler",
+    "XORS",
+    "ALU",
+    "ALU ROM",
+    "CPU",
+    "SR LATCH",
+    "D LATCH",
+    "MS D LATCH",
+    "8B Register",
+    "Register File",
+    "2B Decoder",
+    "8Bitwise OR",
+    "8B Cancler",
+    "4B Decoder",
+    "4AND",
+    "Control ROM",
+    "4OR",
+    "Instruction Memory",
+    "Inst Memory",
+    "8B MUX",
+    "4B MUX",
+    "PC",
+    "D LATCH WITH CLR",
+    "MS D LATCH WITH CLR",
+    "10B MUX",
+    "1B MUX",
+    "16B Length Stack",
+    "Call Stack",
+    "3Way MUX",
+    "10B 3 way MUX",
+    "Data Memory",
+    "6B Decoder",
+    "4B Decoder with EN",
+    "8B Decoder",
+    "4 8B Data Mem",
+    "8 8bit Data Mem",
+    "3B Decoder",
+    "8 to 3 Enc",
+    "5B Decoder",
+    "8B 3 Way MUX",
+    "4B 3 way MUX",
+    "Main",
+    "CONDITIONAL ADDER",
+    "Double Dabble",
+    "BCD to 7SegDis",
+    "Binary to 7SegDis",
+    "8B SR LATCH",
+    "s4 8B DataMem 1",
+    "s4 8B DataMem 2",
+    "s4 8B DataMem 3",
+    "s4 8B DataMem 4",
+    "s8 8bit Data Mem 1",
+    "s8 8bit Data Mem 2"
+  ],
+  "StarredList":[
+    {
+      "Name":"NAND",
+      "IsCollection":false
+    },
+    {
+      "Name":"ALU Operations",
+      "IsCollection":false
+    },
+    {
+      "Name":"8B Adder",
+      "IsCollection":false
+    },
+    {
+      "Name":"FULL ADDER",
+      "IsCollection":false
+    },
+    {
+      "Name":"Cancler",
+      "IsCollection":false
+    },
+    {
+      "Name":"XORS",
+      "IsCollection":false
+    },
+    {
+      "Name":"ALU",
+      "IsCollection":false
+    },
+    {
+      "Name":"ALU ROM",
+      "IsCollection":false
+    },
+    {
+      "Name":"SR LATCH",
+      "IsCollection":false
+    },
+    {
+      "Name":"D LATCH",
+      "IsCollection":false
+    },
+    {
+      "Name":"MS D LATCH",
+      "IsCollection":false
+    },
+    {
+      "Name":"8B Register",
+      "IsCollection":false
+    },
+    {
+      "Name":"Register File",
+      "IsCollection":false
+    },
+    {
+      "Name":"1-8BIT",
+      "IsCollection":false
+    },
+    {
+      "Name":"8-1BIT",
+      "IsCollection":false
+    },
+    {
+      "Name":"2B Decoder",
+      "IsCollection":false
+    },
+    {
+      "Name":"8Bitwise OR",
+      "IsCollection":false
+    },
+    {
+      "Name":"8B Cancler",
+      "IsCollection":false
+    },
+    {
+      "Name":"4B Decoder",
+      "IsCollection":false
+    },
+    {
+      "Name":"4AND",
+      "IsCollection":false
+    },
+    {
+      "Name":"Control ROM",
+      "IsCollection":false
+    },
+    {
+      "Name":"4OR",
+      "IsCollection":false
+    },
+    {
+      "Name":"OR",
+      "IsCollection":false
+    },
+    {
+      "Name":"XOR",
+      "IsCollection":false
+    },
+    {
+      "Name":"NOR",
+      "IsCollection":false
+    },
+    {
+      "Name":"NOT",
+      "IsCollection":false
+    },
+    {
+      "Name":"IN/OUT",
+      "IsCollection":true
+    },
+    {
+      "Name":"Inst Memory",
+      "IsCollection":false
+    },
+    {
+      "Name":"8B MUX",
+      "IsCollection":false
+    },
+    {
+      "Name":"4B MUX",
+      "IsCollection":false
+    },
+    {
+      "Name":"PC",
+      "IsCollection":false
+    },
+    {
+      "Name":"D LATCH WITH CLR",
+      "IsCollection":false
+    },
+    {
+      "Name":"MS D LATCH WITH CLR",
+      "IsCollection":false
+    },
+    {
+      "Name":"10B MUX",
+      "IsCollection":false
+    },
+    {
+      "Name":"1B MUX",
+      "IsCollection":false
+    },
+    {
+      "Name":"16B Length Stack",
+      "IsCollection":false
+    },
+    {
+      "Name":"Call Stack",
+      "IsCollection":false
+    },
+    {
+      "Name":"3Way MUX",
+      "IsCollection":false
+    },
+    {
+      "Name":"10B 3 way MUX",
+      "IsCollection":false
+    },
+    {
+      "Name":"6B Decoder",
+      "IsCollection":false
+    },
+    {
+      "Name":"4B Decoder with EN",
+      "IsCollection":false
+    },
+    {
+      "Name":"8B Decoder",
+      "IsCollection":false
+    },
+    {
+      "Name":"4 8B Data Mem",
+      "IsCollection":false
+    },
+    {
+      "Name":"8 8bit Data Mem",
+      "IsCollection":false
+    },
+    {
+      "Name":"3B Decoder",
+      "IsCollection":false
+    },
+    {
+      "Name":"8 to 3 Enc",
+      "IsCollection":false
+    },
+    {
+      "Name":"5B Decoder",
+      "IsCollection":false
+    },
+    {
+      "Name":"Data Memory",
+      "IsCollection":false
+    },
+    {
+      "Name":"8B 3 Way MUX",
+      "IsCollection":false
+    },
+    {
+      "Name":"4B 3 way MUX",
+      "IsCollection":false
+    },
+    {
+      "Name":"CPU",
+      "IsCollection":false
+    },
+    {
+      "Name":"Main",
+      "IsCollection":false
+    },
+    {
+      "Name":"CONDITIONAL ADDER",
+      "IsCollection":false
+    },
+    {
+      "Name":"Double Dabble",
+      "IsCollection":false
+    },
+    {
+      "Name":"BCD to 7SegDis",
+      "IsCollection":false
+    },
+    {
+      "Name":"Binary to 7SegDis",
+      "IsCollection":false
+    },
+    {
+      "Name":"8B SR LATCH",
+      "IsCollection":false
+    },
+    {
+      "Name":"s4 8B DataMem 1",
+      "IsCollection":false
+    },
+    {
+      "Name":"s4 8B DataMem 2",
+      "IsCollection":false
+    },
+    {
+      "Name":"s4 8B DataMem 3",
+      "IsCollection":false
+    },
+    {
+      "Name":"s4 8B DataMem 4",
+      "IsCollection":false
+    },
+    {
+      "Name":"s8 8bit Data Mem 1",
+      "IsCollection":false
+    },
+    {
+      "Name":"s8 8bit Data Mem 2",
+      "IsCollection":false
+    }
+  ],
+  "ChipCollections":[
+    {
+      "Chips":["NAND","CLOCK","PULSE","KEY","3-STATE BUFFER"],
+      "IsToggledOpen":true,
+      "Name":"BASIC"
+    },
+    {
+      "Chips":["IN-1","IN-4","IN-8","OUT-1","OUT-4","OUT-8"],
+      "IsToggledOpen":false,
+      "Name":"IN/OUT"
+    },
+    {
+      "Chips":["1-4BIT","1-8BIT","4-8BIT","4-1BIT","8-4BIT","8-1BIT"],
+      "IsToggledOpen":true,
+      "Name":"MERGE/SPLIT"
+    },
+    {
+      "Chips":["BUS-1","BUS-4","BUS-8"],
+      "IsToggledOpen":true,
+      "Name":"BUS"
+    },
+    {
+      "Chips":["7-SEGMENT","DOT DISPLAY","RGB DISPLAY","LED"],
+      "IsToggledOpen":true,
+      "Name":"DISPLAY"
+    },
+    {
+      "Chips":["ROM 256×16"],
+      "IsToggledOpen":true,
+      "Name":"MEMORY"
+    },
+    {
+      "Chips":["BUZZER","NOT","AND","OR","XOR","NOR","ALU Operations","8B Adder","FULL ADDER","8B SUB","8B AND","Cancler","XORS","ALU","ALU ROM","CPU","SR LATCH","D LATCH","MS D LATCH","8B Register","Register File","2B Decoder","8Bitwise OR","8B Cancler","4B Decoder","4AND","Control ROM","4OR","Instruction Memory","Inst Memory","8B MUX","4B MUX","PC","D LATCH WITH CLR","MS D LATCH WITH CLR","10B MUX","1B MUX","16B Length Stack","Call Stack","3Way MUX","10B 3 way MUX","Data Memory","6B Decoder","4B Decoder with EN","8B Decoder","4 8B Data Mem","8 8bit Data Mem","3B Decoder","8 to 3 Enc","5B Decoder","8B 3 Way MUX","4B 3 way MUX","Main","CONDITIONAL ADDER","Double Dabble","BCD to 7SegDis","Binary to 7SegDis"],
+      "IsToggledOpen":true,
+      "Name":"OTHER"
+    }
+  ]
+}

